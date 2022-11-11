@@ -5,6 +5,9 @@ name = "pypi"
 
 [packages]
 django = "*"
+html5 = "*"
+css = "*"
+bootstrap4 = "*"
 
 [dev-packages]
 
